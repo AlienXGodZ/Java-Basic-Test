@@ -1,4 +1,4 @@
-// count the single word program
+// count the single numbers
 
 public class Test5{
     public static void main (String[] args){

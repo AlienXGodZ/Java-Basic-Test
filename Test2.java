@@ -1,4 +1,3 @@
-
 // Palindrome program using Strings
 
 public class Test2 {

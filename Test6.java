@@ -1,3 +1,5 @@
+// count vowels in the letters
+
 public class Test6 {
     public static void main(String[] args) {
         String letter = "education";
