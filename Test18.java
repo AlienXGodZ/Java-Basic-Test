@@ -1,3 +1,5 @@
+// check the number if prime and not prime number.
+
 public class Test18 {
     public static void main (String[] args){
         int number = 9;
