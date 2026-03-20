@@ -1,4 +1,4 @@
-// Palindrome program using Strings
+// Check Palindrome program using Strings
 
 public class Test2 {
     public static void main(String[] args) {
