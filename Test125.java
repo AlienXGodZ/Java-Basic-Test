@@ -1,3 +1,5 @@
+//Print all primes from 1 to N
+
 public class Test125 {
     public static void main(String[] args) {
 
