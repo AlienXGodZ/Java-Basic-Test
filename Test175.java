@@ -3,8 +3,6 @@ public class Test175 {
 
         myMethod(10);
 
-
-
     }
 
     public static void myMethod(int n){
