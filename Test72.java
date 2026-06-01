@@ -10,7 +10,7 @@ public class Test72{
 
 
     public static void main(String[] args){
-        int result = mymethod(5);
+        int result = mymethod(0);
         System.out.println(result);
     }
 }

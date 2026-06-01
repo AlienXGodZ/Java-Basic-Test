@@ -23,7 +23,6 @@ public class Test106 {
                     needed--;
                 }
 
-                count[ch]--;
 
                 if (needed == 0) {
 

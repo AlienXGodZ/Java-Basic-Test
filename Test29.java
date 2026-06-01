@@ -29,7 +29,7 @@ public class Test29 {
             }
 
             if (!found) {
-                System.out.println("Missing Letter: " + ch);
+                System.out.println("Missing Letter: " + (char)ch);
             }
         }
     }

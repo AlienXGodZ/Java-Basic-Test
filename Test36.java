@@ -3,7 +3,7 @@
 public class Test36 {
     public static void main(String[] args) {
 
-        int num = 1221;
+        int num = 123241;
 
         while (num > 0) {
 

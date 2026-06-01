@@ -4,7 +4,7 @@ public class Test122 {
     public static void main(String[] args) {
 
         String s1 = "abcde";
-        String s2 = "cdeab";
+        String s2 = "eabcd";
 
         if (s1.length() != s2.length()) {
             System.out.println("FALSE");

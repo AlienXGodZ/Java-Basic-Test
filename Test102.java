@@ -3,8 +3,8 @@
 public class Test102 {
     public static void main(String[] args) {
 
-        String str = "babad";
-        String longest = "";
+        String str = "allaenyefyyyyyf";
+        String longest = " ";
 
         for (int i = 0; i < str.length(); i++) {
             for (int j = i; j < str.length(); j++) {
@@ -30,9 +30,10 @@ public class Test102 {
         while (left < right) {
             if (s.charAt(left) != s.charAt(right)) {
                 return false;
-            }
+            }else{
             left++;
             right--;
+            }
         }
 
         return true;

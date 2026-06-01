@@ -2,7 +2,7 @@
 
 public class Test2 {
     public static void main(String[] args) {
-        String letter = "allena";
+        String letter = "alla";
         int length = letter.length() -1;
         int start = 0;
         boolean condition = true;

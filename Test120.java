@@ -4,7 +4,7 @@ public class Test120 {
     public static void main(String[] args) {
 
         String str = "hello";
-        String sub = "ll";
+        String sub = "lo";
 
         int index = -1;
 

@@ -2,7 +2,7 @@ public class Test105 {
     public static void main(String[] args) {
 
         String s1 = "egg";
-        String s2 = "ada";
+        String s2 = "eff";
 
         if (isIsomorphic(s1, s2)) {
             System.out.println("True");
@@ -28,9 +28,9 @@ public class Test105 {
                              return false;
                     }
 
-                    if(map1[c2] == 0) {
-                        map1[c2] = c1;
-                    }else if(map1[c2] != c1){
+                    if(map2[c2] == 0) {
+                        map2[c2] = c1;
+                    }else if(map2[c2] != c1){
                         return false;
                     }
                     }
