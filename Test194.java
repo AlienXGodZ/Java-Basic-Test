@@ -11,7 +11,9 @@ public class Test194{
             return;
         }
 
-        myMethod(str,ans+str.charAt(index),index+1);
+        char ch = str.charAt(index);
+
+        myMethod(str,ans+ch,index+1);
 
 
         myMethod(str,ans,index+1);
